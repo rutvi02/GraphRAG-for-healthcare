@@ -1,4 +1,4 @@
-Abstract 
+# Abstract 
 
 In recent years, transformer-based large language models (LLMs) have emerged as powerful tools for generating human-like text. However, a significant challenge remains: the phenomenon of ”hallucination”, where models produce factually
 incorrect outputs due to insufficient data support. This issue is particularly critical in the healthcare domain, where inaccurate
@@ -22,6 +22,6 @@ and entity extraction. By leveraging GRAG, we aim to enhance
 the reliability of LLM outputs, ensuring they are both accurate
 and contextually relevant in medical applications.
 
-Approach 
+# Approach 
 
 <img width="432" alt="Screenshot 2025-03-13 at 6 59 05 PM" src="https://github.com/user-attachments/assets/fd1fe676-5228-4df8-976e-0d9c25ff1aaf" />
